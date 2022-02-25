@@ -7,6 +7,10 @@ Lesson 1 Basics
 
 ![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%201%20Basics.png)
 
+Lesson 2 Webpack
+
+* Added webpack bundler and live reloading
+
 Lesson 4 Animations
 
 * Tried animating using delta time concept
