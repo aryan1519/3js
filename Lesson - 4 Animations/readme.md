@@ -1,16 +1,7 @@
-# Webpack THREE.js Template
+Lesson 4 Animations
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+* Tried animating using delta time concept
+* using 3js clock
+* used gsap library
 
-``` bash
-# Install dependencies (only for first time)
-npm i
-
-# Serve at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%20%204%20Animations.gif)
