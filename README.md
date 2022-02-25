@@ -1,5 +1,10 @@
 # 3js
 
+Lesson 4 Animations
+
+
+![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%20%204%20Animations.gif)
+
 Lesson 5 Camera
 
 * Used PerspectiveCamera and OrthographicCamera 
