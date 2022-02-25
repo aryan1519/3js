@@ -1,16 +1,5 @@
-# Webpack THREE.js Template
+Lesson 3 Transformations
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+* Used transformations such as rotation, scaling,etc
 
-``` bash
-# Install dependencies (only for first time)
-npm i
-
-# Serve at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%203%20Transformations.png)
