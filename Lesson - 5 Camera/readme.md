@@ -1,16 +1,7 @@
-# Webpack THREE.js Template
+Lesson 5 Camera
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+* Used PerspectiveCamera and OrthographicCamera 
+* Used mouse move event listener
+* used 3js controls - orbitcontrol
 
-``` bash
-# Install dependencies (only for first time)
-npm i
-
-# Serve at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%205%20Camera.gif)
