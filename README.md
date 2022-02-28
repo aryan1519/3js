@@ -95,14 +95,33 @@ With flat shading
 
 MeshMatcapMaterial
 
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial.PNG" width = "700" height = "500">
 
-<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial.PNG">
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial2.PNG" width = "700" height = "500">
 
-<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial2.PNG">
+MeshDepthMaterial
 
+This needs lighting and is visible only when there is lighting available otherwise is invisible.
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshDepthMaterial.gif" width = "700" height = "500">
+
+MeshLambertMaterial
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshLambertMaterial.gif" width = "700" height = "500">
+
+MeshPhongMaterial
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshPhongMaterial.gif" width = "700" height = "500">
+
+MeshToonMaterial
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshToonMaterial.gif" width = "700" height = "500">
+
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
+<img src="" width = "700" height = "500">
