@@ -15,7 +15,7 @@ Lesson 3 Transformations
 
 * Used transformations such as rotation, scaling,etc
 
-![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%203%20Transformations.png)
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%203%20Transformations.png" width="300" height="140">
 
 Lesson 4 Animations
 
@@ -50,7 +50,7 @@ Lesson 9 Textures
 * used textures transformations such as repeating, wrapping, offsets, pivot change
 * used filters such as minFilter and magFilter
 
-![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20Textures.PNG)
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20Textures.PNG" width="417" height="324">
 
 Use minFilter when the texture is large 
 
