@@ -51,6 +51,7 @@ Lesson 9 Textures
 * used filters such as minFilter and magFilter
 
 Use minFilter when the texture is large 
+
 ![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20No%20minFilter%20to%20minFilter.gif)
 
 Use magFilter when the texture is very small and thus causes blurriness. magFilter will adjust accordingly and make it sharper
