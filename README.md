@@ -61,3 +61,33 @@ Use magFilter when the texture is very small and thus causes blurriness. magFilt
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20No%20magFilter%20to%20magFilter.gif" width="417" height="324">
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20no_mag.PNG" width="417" height="324"> <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20magfilter.PNG" width="417" height="324">
+
+<h1>Lesson 10 Materials</h1>
+
+* used different properties of MeshBasicMaterial
+* used MeshNormalMaterial
+* used MeshMatcapMaterial
+* used MeshDepthMaterial
+* used MeshLambertMaterial 
+* used MeshPhongMaterial
+* used MeshToonMaterial
+* used MeshStandardMaterial
+* used properties such as metalness and roughness
+* used material.map to choose texture
+* used ambient occlusion
+* used displacedmentScale
+* used metalnessMap for doorMetalTexture
+* used roughnessMap for doorRoughnessTexture
+* used normalMap for using doorNormalTexture for details in image
+* used alphaMap for getting rid of extra portion of door texture
+* used GUI for controlling all these properties
+* used gradientMap
+* used Environment Maps
+* used lighting for some materials to work
+
+MeshNormalMaterial
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshNormalMaterial.gif">
+
+With flat shading
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/flatShading.PNG">
