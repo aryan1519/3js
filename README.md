@@ -58,6 +58,6 @@ Use minFilter when the texture is large
 
 Use magFilter when the texture is very small and thus causes blurriness. magFilter will adjust accordingly and make it sharper
 
-![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20No%20magFilter%20to%20magFilter.gif)
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20No%20magFilter%20to%20magFilter.gif" width="417" height="324">
 
-![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20no_mag.PNG) ![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20magfilter.PNG)
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20no_mag.PNG" width="417" height="324"> <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20magfilter.PNG" width="417" height="324">
