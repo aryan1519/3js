@@ -102,6 +102,7 @@ MeshMatcapMaterial
 MeshDepthMaterial
 
 This needs lighting and is visible only when there is lighting available otherwise is invisible.
+As we go closer to it we can see them clearly. Can be used for objects far away.
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshDepthMaterial.gif" width = "700" height = "500">
 
