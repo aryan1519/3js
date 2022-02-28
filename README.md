@@ -15,7 +15,7 @@ Lesson 3 Transformations
 
 * Used transformations such as rotation, scaling,etc
 
-<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%203%20Transformations.png" width="300" height="140">
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%203%20Transformations.png" width="600" height="281">
 
 Lesson 4 Animations
 
