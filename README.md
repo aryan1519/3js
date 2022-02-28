@@ -50,6 +50,8 @@ Lesson 9 Textures
 * used textures transformations such as repeating, wrapping, offsets, pivot change
 * used filters such as minFilter and magFilter
 
+![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20Textures.PNG)
+
 Use minFilter when the texture is large 
 
 ![](https://github.com/aryan1519/3js/blob/main/gifs/Lesson%209%20No%20minFilter%20to%20minFilter.gif)
