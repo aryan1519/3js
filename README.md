@@ -90,4 +90,5 @@ MeshNormalMaterial
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshNormalMaterial.gif">
 
 With flat shading
-<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/flatShading.PNG" width = "700" height = "550">
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/flatShading.PNG" width = "700" height = "500">
