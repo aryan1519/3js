@@ -130,6 +130,10 @@ As we go closer to it we can see them clearly. Can be used for objects far away.
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/Gradient.PNG" width = "700" height = "500">
 
+<h5> Door Texture metalness and roughness</h5>
+
+<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/Door%20Metalness%20and%20Roughness.gif" width = "700" height = "500">
+
 <h5>Ambient Occlusion Map</h5>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/Ambient%20Occlusion.gif" width = "700" height = "500">
