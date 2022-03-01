@@ -1,16 +1,6 @@
-# Three.js Journey
+<h1>Lesson 11 3D Text</h1>
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+* Used FontLoader
+* Used TextGeometry
 
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2011%203D%20Text.gif" width = "700" height = "500">
