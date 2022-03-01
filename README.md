@@ -85,41 +85,47 @@ Use magFilter when the texture is very small and thus causes blurriness. magFilt
 * used Environment Maps
 * used lighting for some materials to work
 
-MeshNormalMaterial
+<h3>MeshNormalMaterial</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshNormalMaterial.gif">
 
-With flat shading
+<h3>With flat shading</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/flatShading.PNG" width = "700" height = "500">
 
-MeshMatcapMaterial
+<h3>MeshMatcapMaterial</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial.PNG" width = "700" height = "500">
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshMatcapMaterial2.PNG" width = "700" height = "500">
 
-MeshDepthMaterial
+<h3>MeshDepthMaterial</h3>
 
 This needs lighting and is visible only when there is lighting available otherwise is invisible.
 As we go closer to it we can see them clearly. Can be used for objects far away.
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshDepthMaterial.gif" width = "700" height = "500">
 
-MeshLambertMaterial
+<h3>MeshLambertMaterial</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshLambertMaterial.gif" width = "700" height = "500">
 
-MeshPhongMaterial
+<h3>MeshPhongMaterial</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshPhongMaterial.gif" width = "700" height = "500">
 
-MeshToonMaterial
+<h3>MeshToonMaterial</h3>
 
 <img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshToonMaterial.gif" width = "700" height = "500">
 
-<img src="" width = "700" height = "500">
-<img src="" width = "700" height = "500">
+<h3>MeshStandardMaterial</h3>
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/MeshStandardMaterial.gif" width = "700" height = "500">
+
+<h5>Metalness and Roughness</h5>
+
+<img src="https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2010/Metalness%20and%20Roughness.gif" width = "700" height = "500">
+
 <img src="" width = "700" height = "500">
 <img src="" width = "700" height = "500">
 <img src="" width = "700" height = "500">
