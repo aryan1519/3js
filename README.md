@@ -240,5 +240,6 @@ After downloading we need to convert the HDRI to CubeMap. For this we can use ht
 
 -> The webisite will be deployed.
 
+Link to deployed website : https://aryan-3d-text.vercel.app/
 
 If we make any changes in the project just type npm run deploy in the terminal after changes are done.
