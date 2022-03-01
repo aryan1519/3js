@@ -67,8 +67,7 @@
 
 <h5>50 triangles custom geometry using BufferGeometry</h5>
 
-<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%207/Lesson%207%2050%20traingles%20custom%20geometry%20using%20BufferGeometry.PNG" width="417" height="324">
-<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%207/Lesson%207%2050%20triangles%20custom%20geometry.PNG" width="400" height="300">
+<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%207/Lesson%207%2050%20traingles%20custom%20geometry%20using%20BufferGeometry.PNG" width="417" height="324"> <img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%207/Lesson%207%2050%20triangles%20custom%20geometry.PNG" width="417" height="324">
 
 <h5>Single traingles custom geometry</h5>
 
