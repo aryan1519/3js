@@ -158,3 +158,10 @@ Gets rid of the black part and keeps the white part of the alphaTexture
 
 Free envMaps and textures are available on https://polyhaven.com/
 After downloading we need to convert the HDRI to CubeMap. For this we can use https://matheowis.github.io/HDRI-to-CubeMap/
+
+<h1>Lesson 11 3D Text</h1>
+
+* Used FontLoader
+* Used TextGeometry
+
+<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2011%203D%20Text.gif" width = "700" height = "500">
