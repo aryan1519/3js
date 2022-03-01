@@ -11,4 +11,4 @@ Press H to hide/unhide GUI.
 We can set default closed:true/false, width, etc of the panel by passing an object while making the GUI
 const gui = new dat.GUI({closed : true, width:400})
 
-<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%208%20Debug%20UI.gif" width = "426" height = "200">
+<img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%208%20Debug%20UI.gif" width = "600" height = "281">
