@@ -299,3 +299,5 @@ We can bake lights into our textures rather than using three js lights but then 
 <h5>Light helpers</h5>
 
 <img src = "https://github.com/aryan1519/3js/blob/main/gifs/Lesson%2013/8%20Light%20Helpers.gif" width = "700" height = "500">
+
+<h1>Lesson 14 Shadows</h1>
