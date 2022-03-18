@@ -303,3 +303,10 @@ We can bake lights into our textures rather than using three js lights but then 
 <h1>Lesson 14 Shadows</h1>
 
 <h1>Lesson 15 Haunted House</h1>
+
+<h1>Lesson 16 </h1>
+
+<h1>Lesson 17 </h1>
+
+<h1>Lesson 20 Physics</h1>
+
